@@ -13,13 +13,11 @@ Ich habe auf meinem Saxophon das ABBA Gold lied Money,Money,Money gelernt.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-Ich habe die Noten des liedes von der Musieggeselschaft Rekingen bekommen.
+Ich habe die Noten des Liedes Money,Money,Money von der Musieggeselschaft Rekingen bekommen, sowie spiele ich auch aktiv mit.
 ![image](https://user-images.githubusercontent.com/110893245/184817479-fce8ef10-544a-4abd-ae9b-fd093aa454f7.png)
+![image](https://user-images.githubusercontent.com/110893245/184817862-c995a9ce-d9fc-42e9-a550-ab18fcd88d7b.png)
 
 
-
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
