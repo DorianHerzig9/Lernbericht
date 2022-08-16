@@ -21,12 +21,13 @@ Ich habe die Noten des Liedes Money,Money,Money von der Musieggeselschaft Reking
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+In dieser Geselschaft habe ich gelernt das Lied zu spielen sowie es auch mit anderen zu spielen.
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Das Enderrgebniss ist gut herausgekommen nun kann ich das Lied fast oder ohne fehler spielen. 
 
-👎 und etwas, was nicht gut lief.
+👎 Was nicht gut lief war das das Üben zu Hause nicht immer einfach oder gut lief, da ich manchmal nicht wuste wie ich manche sachen sielen sollte und eine Woche      warten konne bis ich fragen konnte wie ich etwas spielen soll.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Vieleicht sollte ich öfter in die Mittwochprobe gehen, doch das Problem ist das es mit meinem Zug nicht aufgeht.
+        Ich könnte aber auch versuchen mein Lehrer zu fragen ob ich später kommen kann.
