@@ -25,3 +25,5 @@ In dieser Gesellschaft habe ich gelernt das Lied zu spielen sowie es auch mit an
 
 **VBV**: Vielleicht sollte ich öfter in die Mittwochprobe gehen, doch das Problem ist, dass es mit meinem Zug nicht aufgeht.
         Ich könnte aber auch versuchen mein Lehrer zu fragen, ob ich später kommen kann.
+        
+        
