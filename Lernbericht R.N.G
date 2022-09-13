@@ -45,6 +45,6 @@ Console.ForegroundColor = ConsoleColor.Cyan;
 
 👎 Ich bin nicht zufrieden mit meiner Planung, ich habe am Anfang zu wenig oder zu schlecht geplant und kam am Ende wegen des Lernberichtes in den Stress.
 
-**VBV**: Ich hätte wohl mich besser planen sollen sowie die Sachen, die ich in der Schule nicht verstehe, Zuhause nachschauen.
+**VBV**: Ich hätte mein Projekt besser planen sollen sowie die Sachen, die ich in der Schule nicht verstehen habe, Zuhause nachschauen.
 
         
